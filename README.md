@@ -1,4 +1,6 @@
 ## Hi there 👋
+- 🔭 I’m currently working on ML/AI.
+- 👯 I’m looking to collaborate on ML/AI.
 
 <!--
 **jkirkebo77/jkirkebo77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
