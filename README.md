@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff"/>
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" height="20"/>
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" height="20"/>
   <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" height="20"/>
 </p>
 <h3>Tools I use:</h3>
